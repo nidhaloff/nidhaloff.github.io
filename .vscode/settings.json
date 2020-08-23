@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/a3c39539-139a-4847-993b-36eb7e6f75fb/resourceGroups/web/providers/Microsoft.Web/sites/nidhalbacc-website",
+    "appService.deploySubpath": "build"
+}

@@ -1,0 +1,216 @@
+{
+  "main": {
+    "name":"Nidhal Baccouri",
+    "occupation":"Software Engineer",
+    "description":"I work on developing digital twins in the automotive industry. I face IoT & AI challenges on a daily basis. I contribute regularly to open source in my free time, especially AI and python projects",
+    "image":"profilepic.jpg",
+    "bio":"I'm a python & AI enthusiast. I can't wait to see what we will achieve in the next years. I'm a software guy, who wants to improve the software world",
+    "contactmessage":"Feel free to contact me if you have a question about my open source projects or if you have an offer to discuss",
+    "email": "nidhalbacc@gmail.com",
+    "phone": "00491704636806",
+    "address":{
+      "street":"Buigenrainstrasse",
+      "city":"Stuttgart",
+      "state":"Germany",
+      "zip": "71297"
+    },
+    "website": "http://www.nidhalbacc.com",
+    "resumedownload":"http://nidhalbacc.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/nidhal.baccouri/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/NidhalBaccouri",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nidhal-baccouri-2b9735148/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/nidhalbacc/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nidhaloff",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of applied science Goettingen, Germany",
+        "degree":"Master of Engineering: Electrical Engineering and Information Theory",
+        "graduated":"April 2020",
+        "description":"Master of Engineering with focus on software, control engineering and artificial intelligence"
+      },
+      {
+        "school":"University of Science El Manar, Tunisia",
+        "degree":"Bachelor of Science",
+        "graduated":"Juni 2015",
+        "description":"Bachelor of science with focus on information theory and software engineering"
+      }
+    ],
+    "work":[
+      {
+        "company":"Bertrandt AG",
+        "title":"Software Engineer",
+        "years":"July 2020 - Present",
+        "description":"Working on developing digital twins for the automotive industry"
+      },
+      {
+        "company":"Porsche Engineering Services GmbH",
+        "title":"Software developer - Thesis",
+        "years":"September 2019 - March 2020",
+        "description":"developed an artificial intelligence model to improve GPS accuracy during high dynamic driving (Patent achievement)"
+      },
+      {
+        "company":"Porsche Engineering Services GmbH",
+        "title":"Software developer - Internship",
+        "years":"March 2019 - August 2019",
+        "description":"Worked on the development and integration of microservices and tools for connected car applications"
+      }
+      ,
+      {
+        "company":"COFAT GmbH",
+        "title":"Software developer - Internship",
+        "years":"July 2014 - November 2014",
+        "description":"Data analysis and software testing for the automotive industry"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"100%"
+      },
+      {
+        "name":"Machine Learning",
+        "level":"90%"
+      },
+      {
+        "name":"Data Science",
+        "level":"90%"
+      },
+      {
+        "name":"Web dev",
+        "level":"90%"
+      },
+      {
+        "name":"Nodejs",
+        "level":"90%"
+      },
+      {
+        "name":"C#",
+        "level":"70%"
+      },
+      {
+        "name":"Matlab",
+        "level":"70%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Ionic",
+        "level":"80%"
+      },
+
+      {
+        "name":"SQL",
+        "level":"80%"
+      },
+      {
+        "name":"NoSQL",
+        "level":"80%"
+      },
+      { 
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+    	{
+        "title":"personal-website",
+        "category":"my personal website",
+        "image":"website.png",
+        "url":"https://github.com/nidhaloff/deep_translator"
+      },
+      {
+        "title":"deep-translator",
+        "category":"A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.",
+        "image":"icon.jpg",
+        "url":"https://github.com/nidhaloff/deep_translator"
+      },
+      {
+        "title":"gpx-converter",
+        "category":"python package for manipulating gpx files and easily converting gpx to other different formats",
+        "image":"gpx-icon.png",
+        "url":"https://github.com/nidhaloff/gpx_converter"
+      },
+      {
+        "title":"Translator++",
+        "category":"Cross platform mobile app",
+        "image":"app-icon.png",
+        "url":"https://github.com/nidhaloff/Translator-pp"
+      },
+      {
+        "title":"b-rabbit",
+        "category":"A thread safe library that aims to provide a simple API for interfacing with RabbitMQ.",
+        "image":"rabbit-icon.png",
+        "url":"https://github.com/nidhaloff/b_rabbit"
+      },
+      {
+        "title":"wrabbity",
+        "category":"a node package that provides a simple API for interfacing with RabbitMq.",
+        "image":"rabbit-icon.png",
+        "url":"https://github.com/nidhaloff/wrabbity"
+      },
+      {
+        "title":"dolmetscher",
+        "category":"A translation package for nodejs",
+        "image":"dolmetscher.png",
+        "url":"https://github.com/nidhaloff/dolmetscher"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I used the deep-translator package of Nidhal and I find it great",
+        "user":"Ihsan Dincer - linkedin"
+      },
+      {
+        "text":"I'm using the gpx-converter package created by Nidhal and it is making my life easier",
+        "user":"Moussa Mzoughi - linkedin"
+      },
+      {
+        "text":"Nidhal Baccouri must be one of the most brilliant developers I've ever met!",
+        "user":"Med Ali - linkedin"
+      }
+    ]
+  }
+}
